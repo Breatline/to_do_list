@@ -1,0 +1,1 @@
+(()=>{"use strict";!function(){const e=document.querySelector("body"),t=document.createElement("p");t.classList.add("text"),t.innerText="Hello WebPack",e.appendChild(t)}()})();
